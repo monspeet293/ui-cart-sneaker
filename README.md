@@ -1,4 +1,4 @@
-#UI shopping cart of a shoe shop
+# UI shopping cart of a shoe shop (ReactJS)
 - View my demo app at: https://6432b270a9fb4e264b9a3614--roaring-cassata-1602fe.netlify.app/
 ![image](https://user-images.githubusercontent.com/64058202/231382153-81e18a1d-ff1c-48ca-95d8-56c61127aa29.png)
 ![image](https://user-images.githubusercontent.com/64058202/231382382-e6cf2410-b633-45a9-835e-51e31d7a2239.png)
